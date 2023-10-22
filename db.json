@@ -1,16 +1,80 @@
 {
-  "posts":[
+  "professores": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "nome": "Perdiga",
+      "perfil": "Professor",
+      "disciplina": "HTML / CSS / JS",
+      "ativo": true,
+      "id": 4
+    },
+    {
+      "nome": "Tio Marcio",
+      "perfil": "Cordenador",
+      "disciplina": "Empreendedorismo",
+      "ativo": true,
+      "id": 5
+    },
+    {
+      "nome": "Thalita",
+      "perfil": "Professor",
+      "disciplina": "Inglês",
+      "ativo": true,
+      "id": 6
+    },
+    {
+      "nome": "Arthur (Como é amigo?)",
+      "perfil": "Professor",
+      "disciplina": "HTML / CSS / JS",
+      "ativo": true,
+      "id": 7
     }
   ],
-  "comments" : [
+  "alunos": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nome": "Nicolas",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 2
+    },
+    {
+      "nome": "Matheus",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 3
+    },
+    {
+      "nome": "Ismar",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 4
+    },
+    {
+      "nome": "Breno",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 5
+    },
+    {
+      "nome": "Jose",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 6
+    },
+    {
+      "nome": "Charles",
+      "turma": "TURMA62023",
+      "ativo": true,
+      "id": 7
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Nicolas Vinicius",
+      "email": "admin@admin",
+      "celular": "55555555",
+      "telefone": "66666666",
+      "senha": "123",
+      "id": 1
     }
   ]
 }
