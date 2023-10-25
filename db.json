@@ -27,6 +27,13 @@
       "disciplina": "HTML / CSS / JS",
       "ativo": true,
       "id": 7
+    },
+    {
+      "nome": "Pedro",
+      "perfil": "Professor",
+      "disciplina": "HTML / CSS / JS",
+      "ativo": true,
+      "id": 7
     }
   ],
   "alunos": [
@@ -69,7 +76,7 @@
   ],
   "usuarios": [
     {
-      "nome": "Nicolas Vinicius",
+      "nome": "Nicolas_Vinicius",
       "email": "admin@admin",
       "celular": "55555555",
       "telefone": "66666666",
